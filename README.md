@@ -6,7 +6,3 @@
 #### Latest Blog Posts
 <!-- BlogPosts:START -->
 - [gone-girl-by-gillian-flynn](https://sahill17.github.io/post/gone-girl-by-gillian-flynn)
-- [maps-in-golang](https://sahill17.github.io/post/maps-in-golang)
-- [arrays-and-slices](https://sahill17.github.io/post/arrays-and-slices)
-- [switch-and-defer-statements](https://sahill17.github.io/post/switch-and-defer-statements)
-- [functions-and-loops-in-golang](https://sahill17.github.io/post/functions-and-loops-in-golang)
